@@ -1,0 +1,8 @@
+python -m venv yolovenv
+yolovenv\Scripts\activate
+.\yolovenv\Scripts\Activate.ps1
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+C:\Users\chait\yolovenv\Scripts\python.exe
+pip install ultralytics
+yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
