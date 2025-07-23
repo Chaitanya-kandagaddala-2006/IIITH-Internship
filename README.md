@@ -1,2 +1,2 @@
-# IIITH-Task
+# IIITH-Internship
 Doing tasks of ml
