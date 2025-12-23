@@ -41,4 +41,3 @@ The system uses **computer vision and deep learning models** to:
 
 ---
 
-## 📂 Project Structure
